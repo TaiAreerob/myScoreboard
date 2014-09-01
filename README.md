@@ -1,4 +1,5 @@
-myScoreboard
-============
+ACM_scoreboard
 
-myScoreboard
+-add all basic structure
+
+==============
